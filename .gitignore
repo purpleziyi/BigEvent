@@ -12,6 +12,7 @@ target/
 *.iml
 *.ipr
 test/
+src/main/java/cc/ziyiz/utils/AliOssUtil.java
 
 ### Eclipse ###
 .apt_generated
