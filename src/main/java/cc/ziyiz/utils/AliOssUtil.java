@@ -16,8 +16,8 @@ public class AliOssUtil {
     // Endpoint: Beijing
     private static final String ENDPOINT = "https://oss-cn-beijing.aliyuncs.com";
 
-    private static final String ACCESS_KEY_ID = "LTAI5t7Tvfx8sfWxXdA28p5q";
-    private static final String ACCESS_KEY_SECRET = "HtmpxO6MdZvVl8r1YURfqp8qv9GmSE";
+    private static final String ACCESS_KEY_ID = " ";    // sensitive info
+    private static final String ACCESS_KEY_SECRET = " ";  // sensitive info
 
     private static final String BUCKET_NAME = "big-event-ziyiz";
 
