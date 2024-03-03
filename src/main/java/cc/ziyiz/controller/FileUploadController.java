@@ -1,12 +1,10 @@
 package cc.ziyiz.controller;
 
 import cc.ziyiz.pojo.Result;
-import cc.ziyiz.utils.AliOssUtil;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
-import java.io.File;
 import java.util.UUID;
 
 @RestController
