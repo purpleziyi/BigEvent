@@ -47,7 +47,8 @@
 ![big-event userInfo](https://github.com/purpleziyi/BigEvent/assets/161695864/c66e8ef8-f937-4f1a-9054-bddaa46032ee)
 ![big-event modify_info](https://github.com/purpleziyi/BigEvent/assets/161695864/43569c85-242f-4b4d-a938-1edd46d2faad)
 ![big-event change_avatar](https://github.com/purpleziyi/BigEvent/assets/161695864/679c67d3-8ea0-4ef6-ab43-295bccb1e555)
-![big-event login](https://github.com/purpleziyi/BigEvent/assets/161695864/5ddfa07e-1e2e-4430-aec5-a14aeb6a4581)
+![big-event logout](https://github.com/purpleziyi/BigEvent/assets/161695864/22f3a938-dff5-4bde-9dbd-e27a44cbe3d1)
+
 
 
 
