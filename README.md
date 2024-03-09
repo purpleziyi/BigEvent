@@ -38,7 +38,7 @@
    - Enables users to upload files to a cloud platform.
 
 **Technical Challenges**
-1. The Login-module utilized JWT authentication and implemented a token active invalidation mechanism by using Redis.
+1. The Login-module utilized JWT authentication and implemented Redis Token Revocation Mechanism.
 2. Interceptor:  Registered an interceptor for the program, ensuring that all requests pass through it, which allows for unified validation within the interceptor.
 3. ThreadLocal:Reduced parameter passing and facilitated data sharing among code executed within the same thread.
 
