@@ -42,6 +42,7 @@
 2. Interceptor:  Registered an interceptor for the program, ensuring that all requests pass through it, which allows for unified validation within the interceptor.
 3. ThreadLocal:Reduced parameter passing and facilitated data sharing among code executed within the same thread.
 
+
 **Function display/operation screenshots**
 ![big-event login](https://github.com/purpleziyi/BigEvent/assets/161695864/6c28934e-4faf-472f-8039-758596037605)
 ![big-event register](https://github.com/purpleziyi/BigEvent/assets/161695864/366ad3f4-a9d0-4b71-9773-e3f39768d807)
