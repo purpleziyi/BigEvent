@@ -17,11 +17,11 @@
 - Deployment: Deployed the SpringBoot project for optimal performance.
 
 **Frontend (Vue):**
-- Vue Version: Utilized Vue3.
-- Project Scaffold: Built the project using Vite, a Vue project scaffold.
-- Routing/Navigation: Implemented Vue Router for efficient routing and navigation.
-- State Management: Utilized Pinia for effective state management.
-- UI Components: Employed Element-Plus for a rich set of UI components.
+- Vue Version: Vue3.
+- Project Scaffold: Builde the project using Vite, a Vue project scaffold.
+- Routing/Navigation: Implemente Vue Router for efficient routing and navigation.
+- State Management: Use Pinia for effective state management.
+- UI Components: Use Element-Plus for a rich set of UI components.
 
 **Overview of Functionality/Modules**
 1. **Login Homepage:**
