@@ -30,7 +30,7 @@ public class LoginInterceptor  implements HandlerInterceptor {
             // get the same token from Redis
             ValueOperations<String, String> operations = stringRedisTemplate.opsForValue();
             String redisToken = operations.get(token);
-            if(redisToken == token){
+            if(redisToken == null){
                 // token has been expired
                 throw new RuntimeException();
             }
